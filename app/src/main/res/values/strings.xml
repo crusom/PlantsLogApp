@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlantsLog</string>
+    <string name="retry">Retry</string>
+    <string name="results_can_t_be_loaded">Results can\'t be loaded</string>
+    <string name="search">Search</string>
+    <string name="a_plant">A plant</string>
+    <string name="name">Name:</string>
+    <string name="family">Family:</string>
+    <string name="genus">Genus:</string>
+</resources>
